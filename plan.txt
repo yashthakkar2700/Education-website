@@ -1,0 +1,23 @@
+First Step
+Create index.html
+Create Generalize Styles
+Find Out all the images
+	
+Second Step
+Split all the pages and their work
+
+Third Step
+Responsive Css
+
+Step After every Step
+Update in pendrive
+
+
+Note
+While updating the file in pendrive rememeber to update the file path
+
+
+Files which can be viewed
+White Graphics
+Phila Tours
+Weather App
